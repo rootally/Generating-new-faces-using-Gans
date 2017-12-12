@@ -23,9 +23,9 @@ Pytorch implementation of Generative Adversarial Networks (GAN) and Deep Convolu
 </tr>
 </table>
 
-*Training Loss
+* Training Loss
 
-**Generator's Loss** : ![gen-loss](/results/g_loss.png)
+**Generator's Loss** :     ![gen-loss](/results/g_loss.png)
 
 **Discriminator's Loss** : ![disc-loss](/results/d_loss.png)
 
