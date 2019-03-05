@@ -6,7 +6,6 @@ Pytorch implementation of Generative Adversarial Networks (GAN) and Deep Convolu
 * you can download
   - LFW dataset: http://vis-www.cs.umass.edu/lfw/
 
-## Results
 
 ## Resutls
 ### LFW
